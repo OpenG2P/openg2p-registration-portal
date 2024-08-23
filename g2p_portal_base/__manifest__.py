@@ -1,12 +1,11 @@
 {
     "name": "G2P Registration Portal: Base",
     "category": "OpenG2P",
-    "version": "17.0.1.0.0",
+    "version": "17.0.1.2.0",
     "sequence": 1,
     "author": "OpenG2P",
     "website": "https://openg2p.org",
     "license": "Other OSI approved licence",
-    "development_status": "Alpha",
     "depends": ["account", "website"],
     "data": [
         "views/about_us.xml",
